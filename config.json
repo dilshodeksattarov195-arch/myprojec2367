@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfalidate",
+        "uuid": 430794,
+        "checksum": "czv75"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
